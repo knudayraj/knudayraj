@@ -4,7 +4,7 @@
 
 
 - 🕸 I love to learn new things and solve new problems everyday. 
-- 💮 Passionate about developing webpages & learning new things. 
+- 💮 Passionate about developing webpages & learning new technologies. 
 - 🌱 Learning more technologies that go into building Full Stack Applications. 
 
 **🛠 Tech Stack**
