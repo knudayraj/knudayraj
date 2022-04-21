@@ -1,17 +1,17 @@
-### Hello there 👋, I'm Raj!
+### Hello 👋, I'm Udayraj !
 
 **👨‍💻 About Me**
-<!--
-**knudayraj/knudayraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💮 Passionate about developing webpages & learning new Technologies. 
+- 🌱 Learning more technologies that go into building Full Stack Applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠 Tech Stack**
+- 💻 JavaScript | ES6 | C | C++
+- 🌐 HTML5 | CSS3 | ReactJS | Node.js | Express.js 
+- 🛢   MongoDB 
+- 🔧  Git
+
+
+**📫 How to reach me:**
+- kn.udayraj@gmail.com
+- www.linkedin.com/in/udayraj-n/
