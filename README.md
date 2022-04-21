@@ -9,7 +9,7 @@
 
 **🛠 Tech Stack**
 - 💻 JavaScript | ES6 | C | C++
-- 🌐 HTML5 | CSS3 | ReactJS | Node.js | Express.js 
+- 🌐 HTML5 | CSS3 | ReactJS | Redux | Node.js | Express.js 
 - 🛢   MongoDB 
 - 🔧  Git
 
