@@ -2,7 +2,9 @@
 
 **👨‍💻 About Me**
 
-- 💮 Passionate about developing webpages & learning new Technologies. 
+
+- 🕸 I love to learn new things and solve new problems everyday. 
+- 💮 Passionate about developing webpages & learning new things. 
 - 🌱 Learning more technologies that go into building Full Stack Applications. 
 
 **🛠 Tech Stack**
