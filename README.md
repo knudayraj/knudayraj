@@ -1,6 +1,7 @@
 ### Hello there 👋, I'm Raj!
 
 About me 👨‍⚖️
+👨‍💻 About Me
 <!--
 **knudayraj/knudayraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
