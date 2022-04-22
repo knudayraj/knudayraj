@@ -3,7 +3,7 @@
 **👨‍💻 About Me**
 
 
-- 🕸 I love to learn new things and solve new problems everyday. 
+- 🕸 I love to learn new things and solve new problems. 
 - 💮 Passionate about developing webpages & learning new technologies. 
 - 🌱 Learning more technologies that go into building Full Stack Applications. 
 
