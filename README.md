@@ -17,4 +17,3 @@
 **📫 How to reach me:**
 - kn.udayraj@gmail.com
 - www.linkedin.com/in/udayraj-n/
-<a href="#" class="left primary button">Archive</a>
